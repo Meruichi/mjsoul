@@ -1,7 +1,9 @@
 {
   "ver":1.0,
   "se":{
-    "4":{"url":""},"5":{"url":""},"10":{"url":""},
+    "4":{"url":""},
+    "5":{"url":""},
+    "10":{"url":""},
     "25":{"url":"https://raw.githubusercontent.com/Meruichi/mjsoul/main/act_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/Meruichi/mjsoul/main/act_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/Meruichi/mjsoul/main/act_kan.mp3"},
